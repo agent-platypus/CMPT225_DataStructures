@@ -1,2 +1,4 @@
-# CMPT225_HashmapDataStruct
-C++ code implementing a string dictionary with a hashmap data structure
+# CMPT225_DataStructures
+Data structure assignments from CMPT 225
+- Queue Data structure
+- Dictionary hashmap data structure
